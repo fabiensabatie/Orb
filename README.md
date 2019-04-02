@@ -1,7 +1,7 @@
 # A simple three.js animated orb
 
 <p align="center">
-![The orb of Osuvox](assets/osuvox.gif)
+	<img src="assets/osuvox.gif"/>
 </p>
 
 You cannot run this locally unless you tweak your browser CORS policy.
